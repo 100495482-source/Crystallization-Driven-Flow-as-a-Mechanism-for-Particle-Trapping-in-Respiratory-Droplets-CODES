@@ -1,0 +1,2 @@
+# Crystallization-Driven-Flow-as-a-Mechanism-for-Particle-Trapping-in-Respiratory-Droplets-CODES
+MATLAB codes to study crystallisation-driven flow in evaporating sessile saline droplets. Pre-processes image stacks and measures crystal growth, internal flow (PIV and particle tracking) and tracer accumulation. Compares measured velocities against those of capillary replenishment, solutal Marangoni and natural convection.
